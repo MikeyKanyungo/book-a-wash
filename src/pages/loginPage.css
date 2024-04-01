@@ -1,0 +1,18 @@
+.header {
+    background-color: gold;
+    margin-bottom: 20px;
+    padding: 25px 20px 25px 20px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.form {
+    margin: 10px;
+}
+
+input[type=text], input[type=password] {
+    padding: 15px;
+    border-radius: 25px;
+    border: 2px solid white;
+    background-color: inherit;
+}

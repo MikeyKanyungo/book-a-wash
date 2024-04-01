@@ -1,0 +1,6 @@
+input[type=tel], input[type=email], input[type=text], input[type=password] {
+    padding: 20px;
+    border-radius: 25px;
+    border: none;
+    background-color: inherit;
+}
